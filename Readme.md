@@ -1,9 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Егор Мельниченко](https://up.htmlacademy.ru/htmlcss/28/user/787713).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: 'Без наставника'
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
